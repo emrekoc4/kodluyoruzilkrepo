@@ -2,7 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![](ilkRepo.PNG)
+![](C:\Users\smsnf\Desktop\ilRepo.PNG)
 ## Installation
 Öncelikle projeyi klonlayın.
 ```
